@@ -33,7 +33,7 @@ if uploaded_file is not None:
         f.write(uploaded_file.getbuffer())
 
     # Show uploaded image
-    st.image(file_path, caption="Uploaded Image", use_container_width =True)
+    st.image(file_path, caption="Uploaded Image", use_container_width=True)
 
     # Preprocess & predict
     img_array = preprocess_image(file_path)
