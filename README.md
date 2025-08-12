@@ -101,7 +101,7 @@ A small gap between the two indicates **good generalization** (balanced fit), wh
 
 ## Accuracy Comparison
 
-![Model Accuracy Comparison]([Images/model_accuracy_comparison(analysing OF,UF,BM).png](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png))
+![Model Accuracy Comparison](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)
 
 ## 🚀 Business Impact
 - **Positive:**
