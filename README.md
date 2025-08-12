@@ -103,7 +103,7 @@ A small gap between the two indicates **good generalization** (balanced fit), wh
 ## Accuracy Comparison
 <p align="center">
   <img src='Images/model_accuracy_comparison(analysing OF,UF,BM).png'
-       width="1000"/>
+       width="800"/>
 </p>
         
  
