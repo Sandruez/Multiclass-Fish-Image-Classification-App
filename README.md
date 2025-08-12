@@ -99,11 +99,11 @@ A small gap between the two indicates **good generalization** (balanced fit), wh
 - The **scratch-built model** has slightly lower train accuracy than val accuracy, suggesting **mild underfitting** but still generalizing well.  
 - **Pre-trained models** (VGG16, ResNet50, MobileNetV2, InceptionV3, EfficientNetB0) achieved **extremely high and stable performance**, with no signs of overfitting.
 
-## Accuracy Comparison
+
 ## Accuracy Comparison
 <p align="center">
   <img src='Images/model_accuracy_comparison(analysing OF,UF,BM).png'
-       width="600"/>
+       width="1000"/>
 </p>
         
  
