@@ -102,21 +102,11 @@ A small gap between the two indicates **good generalization** (balanced fit), wh
 ## Accuracy Comparison
 ## Accuracy Comparison
 <p align="center">
-  <img src="https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/e989055cd0890c5057b16e4e015c770056e31c25/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png" 
-       alt="Model Accuracy Comparison" 
+  <img src='Images/model_accuracy_comparison(analysing OF,UF,BM).png'
        width="600"/>
 </p>
-<p align="center">
-  <img src="https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/e989055cd0890c5057b16e4e015c770056e31c25/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png" 
-            
- </p>
- ## Accuracy Comparison
-<p align="center">
-  <img src=src="https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/e989055cd0890c5057b16e4e015c770056e31c25/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png" 
-       alt="Model Accuracy Comparison" 
-       width="600">
-</p>
-
+        
+ 
 
 ## 🚀 Business Impact
 - **Positive:**
