@@ -100,8 +100,13 @@ A small gap between the two indicates **good generalization** (balanced fit), wh
 - **Pre-trained models** (VGG16, ResNet50, MobileNetV2, InceptionV3, EfficientNetB0) achieved **extremely high and stable performance**, with no signs of overfitting.
 
 ## Accuracy Comparison
-
-![Model Accuracy Comparison](https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)
+## Accuracy Comparison
+<p align="center">
+  <img src="(https://github.com/Sandruez/Multiclass-Fish-Image-Classification-App/blob/8adef34493c44d9726a4fad261cf2b7123a017f6/Images/model_accuracy_comparison(analysing%20OF%2CUF%2CBM).png)
+" 
+       alt="Model Accuracy Comparison" 
+       width="600"/>
+</p>
 
 ## 🚀 Business Impact
 - **Positive:**
